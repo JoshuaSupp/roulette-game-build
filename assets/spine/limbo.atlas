@@ -1,0 +1,100 @@
+limbo.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+	scale: 0.5
+Rocket2 1
+	bounds: 2, 1578, 335, 461
+Rocket_piece1
+	bounds: 184, 378, 142, 151
+Rocket_piece2
+	bounds: 2, 1326, 256, 250
+Rocket_piece3
+	bounds: 184, 531, 160, 234
+Rocket_piece4
+	bounds: 1150, 1197, 114, 192
+	rotate: 90
+Rocket_piece5
+	bounds: 506, 779, 189, 168
+Rocket_piece6
+	bounds: 2, 2, 59, 34
+Rocket_piece7
+	bounds: 1870, 1463, 30, 30
+Rocket_piece8
+	bounds: 1038, 1108, 20, 21
+Rocket_piece9
+	bounds: 828, 996, 24, 24
+fire1
+	bounds: 1949, 1948, 81, 91
+fire2
+	bounds: 346, 608, 115, 157
+fire3
+	bounds: 828, 1022, 107, 208
+	rotate: 90
+fire4
+	bounds: 260, 1520, 10, 56
+fog_shine
+	bounds: 697, 818, 129, 129
+fxsmoke_000
+	bounds: 339, 1859, 320, 180
+fxsmoke_001
+	bounds: 2, 1004, 320, 180
+	rotate: 90
+fxsmoke_002
+	bounds: 339, 1677, 320, 180
+fxsmoke_003
+	bounds: 661, 1859, 320, 180
+fxsmoke_004
+	bounds: 2, 682, 320, 180
+	rotate: 90
+fxsmoke_005
+	bounds: 661, 1677, 320, 180
+fxsmoke_006
+	bounds: 983, 1859, 320, 180
+fxsmoke_007
+	bounds: 2, 360, 320, 180
+	rotate: 90
+fxsmoke_008
+	bounds: 983, 1677, 320, 180
+fxwater001_001
+	bounds: 1305, 1859, 320, 180
+fxwater001_002
+	bounds: 2, 38, 320, 180
+	rotate: 90
+fxwater001_003
+	bounds: 1305, 1677, 320, 180
+fxwater001_004
+	bounds: 1627, 1859, 320, 180
+fxwater001_005
+	bounds: 1627, 1677, 320, 180
+fxwater001_006
+	bounds: 339, 1495, 320, 180
+fxwater001_007
+	bounds: 661, 1495, 320, 180
+fxwater001_008
+	bounds: 983, 1495, 320, 180
+fxwater001_009
+	bounds: 1305, 1495, 320, 180
+fxwater001_010
+	bounds: 1627, 1495, 320, 180
+fxwater001_011
+	bounds: 260, 1313, 320, 180
+fxwater001_012
+	bounds: 582, 1313, 320, 180
+fxwater001_013
+	bounds: 904, 1313, 320, 180
+fxwater001_014
+	bounds: 1226, 1313, 320, 180
+fxwater001_015
+	bounds: 1548, 1313, 320, 180
+fxwater001_016
+	bounds: 184, 1131, 320, 180
+fxwater001_017
+	bounds: 184, 949, 320, 180
+fxwater001_018
+	bounds: 506, 1131, 320, 180
+fxwater001_019
+	bounds: 184, 767, 320, 180
+fxwater001_020
+	bounds: 506, 949, 320, 180
+fxwater001_021
+	bounds: 828, 1131, 320, 180
